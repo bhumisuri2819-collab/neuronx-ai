@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+
+# Next.js & Vite build output
+.next/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+*.sqlite
+*.db
+
+# Temporary & Uploads
+uploads/
+tmp/
+
+# OS & Environment
+.DS_Store
+*.log
+.env*
+!.env.example

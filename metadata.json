@@ -1,0 +1,6 @@
+{
+  "name": "NeuronX AI - AI-Powered Study OS for JEE & NEET",
+  "description": "An AI-powered Study Operating System for JEE Main, JEE Advanced and NEET aspirants. Features AI Tutor, Adaptive Quizzes, Focus Detection, OCR Scanner, Mind Maps, and Spaced Repetition.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
